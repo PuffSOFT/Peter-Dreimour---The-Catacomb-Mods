@@ -9,7 +9,7 @@ Catacomb 3D Mods:
 
 1. P.D. - Peter Dreemurr (Catacomb 3D Mod)
 2. P.D. - Peter Dreimour 2 (Catacomb 3D Mod)
-3. P.D. - Peter Dreimour 3 (Catacomb 3D Mod) *Coming Soon*
+3. P.D. - Peter Dreimour 3 (Catacomb 3D Mod)
 
 
 The Catacomb Adventure Series Mods:
